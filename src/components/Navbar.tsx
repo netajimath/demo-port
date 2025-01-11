@@ -33,7 +33,7 @@ export default function Navbar() {
         {/* Mobile navigation */}
         {isOpen && (
           <div className="md:hidden py-4 space-y-4">
-            <NavLinks location={location} onClick={closeMcenu} mobile />
+            <NavLinks location={location} onClick={closeMenu} mobile />
           </div>
         )}
       </div>
