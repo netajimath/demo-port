@@ -1,0 +1,9 @@
+export { default as Header } from './Header';
+export { default as PainPoints } from './PainPoints';
+export { default as TargetUsers } from './TargetUsers';
+export { default as KeyFeatures } from './KeyFeatures';
+export { default as UXResearch } from './UXResearch';
+export { default as Solutions } from './Solutions';
+export { default as HiFi } from './HiFi';
+export { default as UsabilityTesting } from './UsabilityTesting';
+export { default as BusinessMetrics } from './BusinessMetrics';
